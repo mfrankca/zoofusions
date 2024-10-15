@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 # Load the logo image
-logo = Image.open('ZooFusions_logo.png')
+logo = Image.open('C:\\Marina Business\\zoo fusions\\Logo\ZooFusions_logo.png')
 
 # Display logo and business title
 st.image(logo, width=300)
